@@ -14,5 +14,5 @@ Body of the blog
 
 ```
 I write jabascript
-``
+```
 All in africa
